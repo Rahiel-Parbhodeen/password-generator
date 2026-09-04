@@ -47,17 +47,6 @@ Through this project, I practiced:
 * Basic cybersecurity concepts
 * Using Git and GitHub
 
-## Future Improvements
-
-Some features I may add in the future:
-
-Password strength checker
-Option to choose character types
- Graphical user interface
- Copy password button
-Password history
-More advanced password-strength analysis
-
 ##Author
 Rahiel Parbhodeen
 
